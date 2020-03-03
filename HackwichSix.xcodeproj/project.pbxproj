@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7F767CF6240EEB3700D613D0 /* Joseph Payongayong.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Joseph Payongayong.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F767CF6240EEB3700D613D0 /* HackwichSix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackwichSix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F767CF9240EEB3700D613D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7F767CFB240EEB3700D613D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7F767CFE240EEB3700D613D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		7F767CF7240EEB3700D613D0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7F767CF6240EEB3700D613D0 /* Joseph Payongayong.app */,
+				7F767CF6240EEB3700D613D0 /* HackwichSix.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7F767CF5240EEB3700D613D0 /* Joseph Payongayong */ = {
+		7F767CF5240EEB3700D613D0 /* HackwichSix */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7F767D08240EEB3C00D613D0 /* Build configuration list for PBXNativeTarget "Joseph Payongayong" */;
+			buildConfigurationList = 7F767D08240EEB3C00D613D0 /* Build configuration list for PBXNativeTarget "HackwichSix" */;
 			buildPhases = (
 				7F767CF2240EEB3700D613D0 /* Sources */,
 				7F767CF3240EEB3700D613D0 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Joseph Payongayong";
+			name = HackwichSix;
 			productName = "Joseph Payongayong";
-			productReference = 7F767CF6240EEB3700D613D0 /* Joseph Payongayong.app */;
+			productReference = 7F767CF6240EEB3700D613D0 /* HackwichSix.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7F767CF1240EEB3700D613D0 /* Build configuration list for PBXProject "Joseph Payongayong" */;
+			buildConfigurationList = 7F767CF1240EEB3700D613D0 /* Build configuration list for PBXProject "HackwichSix" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7F767CF5240EEB3700D613D0 /* Joseph Payongayong */,
+				7F767CF5240EEB3700D613D0 /* HackwichSix */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7F767CF1240EEB3700D613D0 /* Build configuration list for PBXProject "Joseph Payongayong" */ = {
+		7F767CF1240EEB3700D613D0 /* Build configuration list for PBXProject "HackwichSix" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7F767D06240EEB3C00D613D0 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7F767D08240EEB3C00D613D0 /* Build configuration list for PBXNativeTarget "Joseph Payongayong" */ = {
+		7F767D08240EEB3C00D613D0 /* Build configuration list for PBXNativeTarget "HackwichSix" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7F767D09240EEB3C00D613D0 /* Debug */,
